@@ -1,0 +1,8 @@
+faiss-cpu
+pdfplumber
+numpy
+uvicorn
+fastapi
+langchain-text-splitters
+sentence-transformers
+torch
