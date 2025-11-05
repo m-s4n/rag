@@ -1,0 +1,14 @@
+{
+  "pdf": "D:\\yapay_zeka_dersleri\\rag-mini\\data\\belge.pdf",
+  "embedding": {
+    "backend": "e5",
+    "model_dir": "D:\\yapay_zeka_dersleri\\rag-mini\\models\\intfloat-multilingual-e5-base",
+    "format": "E5 passage"
+  },
+  "metric": "cosine(IP+normalize)",
+  "chunks": {
+    "count": 26,
+    "token_size": 900,
+    "overlap": 150
+  }
+}
